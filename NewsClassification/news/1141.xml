@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/softnews/show/107397/quake-ii-rtx-s-trassirovkoj-luchej-teper-mozhno-zapustit-na-videokartah-amd</link><category verify="true" type="str" auto="true"><![CDATA[Новости Software]]></category><date verify="true" type="str" auto="true"><![CDATA[16 декабря 2020, среда 09:36]]></date><title verify="true" type="str" auto="true"><![CDATA[Quake II RTX с трассировкой лучей теперь можно запустить на видеокартах AMD]]></title><author verify="true" type="str" auto="true"><![CDATA[Игнатий Колыско]]></author><text verify="true" type="str" auto="true"><![CDATA[  Quake II RTX получила обновление 1.4.0, которое может заинтересовать владельцев видеокарт AMD. Самое важное, что появилось в этом обновлении, — аппаратная поддержка трассировки лучей на базе технологии Vulkan, которая не требует наличия видеокарты NVIDIA RTX. Проще говоря, теперь «лучи» в Quake II RTX могут работать и на новых Radeon.
+ 
+ 
+ Более того, обновлённый API Vulkan позволяет запустить аппаратную трассировку на любой программной платформе, наличие Windows c DirectX вовсе не обязательно. Набор инструментов Vulkan теперь позволяет разработчикам реализовать рейтрейсинг на любой платформе.
+ Quake II RTX можно скачать в Steam или на сайте NVIDIA. Последняя занимается поддержкой классической игры, получившей вторую жизнь.
+]]></text></doc>

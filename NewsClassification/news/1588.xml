@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/itnews/show/99100/vpechatlyajuschee-demo-back-stage-demonstriruet-trassirovku-luchej-na-dvizhke-luminous</link><category verify="true" type="str" auto="true"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="true"><![CDATA[4 сентября 2019, среда 18:04]]></date><title verify="true" type="str" auto="true"><![CDATA[Впечатляющее демо «Back Stage» демонстрирует трассировку лучей на движке Luminous]]></title><author verify="true" type="str" auto="true"><![CDATA[admin]]></author><text verify="true" type="str" auto="true"><![CDATA[  Студия Luminous Productions сегодня представила демо «Back Stage» с использованием трассировки лучей в реальном времени на конференции разработчиков игр CEDEC в Японии. Демо было представлено в рамках совместной презентации Такеши Арамаки (Takeshi Aramaki), директора Luminous Productions, и Масая Такешиге (Masaya Takeshige) из NVIDIA.
+
+
+
+Демо, запущенное на GPU NVIDIA GeForce RTX 2080 Ti, показало работу самого сложного алгоритма трассировки лучей в реальном времени под названием «трассировка пути» (path tracing). Оно было создано на движке Luminous, который использовался для создания игры FINAL FANTASY XV и еще одной ожидаемой ААА-новинки от Luminous Productions. Таким образом, движок Luminous стал одним из первых с поддержкой технологии «path tracing».
+
+Включение технологии трассировки лучей в еще один движок отражает огромный растущий интерес игровой индустрии к этой технологии. Трассировка лучей опирается на мощную экосистему, включающую стандартные в индустрии API, поддержку в популярных и частных игровых движках и самые ожидаемые игры от крупнейших издателей.
+
+Luminous Productions, которая входит в группу компаний Square Enix, считается одной из крупнейших студий разработки игр в мире и знаменита применением передовых технологий.
+
+“Демо «Back Stage» – это ответ на вопрос: «Как можно применять трассировку лучей в играх нового поколения?» Видеокарты GeForce RTX обладают колоссальной мощью, благодаря которой даже трассировка лучей в реальном времени становится реальностью. С помощью движка Luminous и технологии RTX мы сделали еще один шаг к тому, чтобы сделать игры еще красивее и реалистичнее,” – говорит ТакеШИ Арамаки, директор студии Luminous Productions.
+
+Полезные ссылки:
+
+Скриншоты, видео и другие материалы на пресс-сайте NVIDIA:
+www.nvidia-press.com.
+
+Статья по Back Stage на сайте GeForce:
+https://www.nvidia.com/en-us/geforce/news/back-stage-luminous-productions-geforce-rtx-2080-ti-ray-tracing-tech-demo
+]]></text></doc>

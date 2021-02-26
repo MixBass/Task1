@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/hardnews/show/107162/amd-ryzen-5-5600x-obnovil-seriju-rekordov-na-chastotah-svyshe-5-9-ggc</link><category verify="true" type="str" auto="true"><![CDATA[Новости Hardware]]></category><date verify="true" type="str" auto="true"><![CDATA[4 декабря 2020, пятница 13:11]]></date><title verify="true" type="str" auto="true"><![CDATA[AMD Ryzen 5 5600X обновил серию рекордов на частотах свыше 5.9 ГГц]]></title><author verify="true" type="str" auto="true"><![CDATA[Алексей Сычёв]]></author><text verify="true" type="str" auto="true"><![CDATA[  Одним из примеров успеха южнокорейского оверклокера Safedisk в деле разгона процессора AMD Ryzen 5 5600X является новый рекорд Cinebench R15 среди моделей с шестью ядрами, соответствующий результату 2628 баллов. В модельном зачёте он тоже лучший, а получен он был при частоте процессора 5974 МГц.
+ 
+ 
+ 
+ 
+ Процессор был установлен в материнскую плату ASUS ROG Crosshair VIII Dark Hero на основе набора логики AMD X570, он охлаждался жидким азотом. На указанной частоте удалось сохранить активность шести ядер и двенадцати потоков.
+ 
+ 
+ 
+ 
+ Попутно были установлены рекорды среди процессоров с шестью ядрами в следующих дисциплинах: GPUPI for CPU 1B (1 минута 15,73 секунды при частоте 5974 МГц), Geekbench3 Multi Core (48 860 баллов при частоте 5948 МГц) и HWBot x265 4K (21,404 кадра в секунду при частоте 5926 МГц).
+]]></text></doc>

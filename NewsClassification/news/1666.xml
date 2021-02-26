@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/itnews/show/96383/bolshe-tvorchestva-menshe-zabot-gpu-nvidia-rtx-i-drajvery-creator-ready-povyshajut-proizvoditelnost-prilozhenij-dlya-dizajna</link><category verify="true" type="str" auto="true"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="true"><![CDATA[21 марта 2019, четверг 22:30]]></date><title verify="true" type="str" auto="true"><![CDATA[Больше творчества, меньше забот: GPU NVIDIA RTX и драйверы Creator Ready повышают производительность приложений для дизайна]]></title><author verify="true" type="str" auto="true"><![CDATA[admin]]></author><text verify="true" type="str" auto="true"><![CDATA[  Графические процессоры NVIDIA RTX обеспечили видеоредакторам, 3D аниматорам, вещательным компаниям, графическим дизайнерам и фотографам во всем мире большой прирост в продуктивности работы, благодаря поддержке аппаратно ускоренной трассировки лучей, искусственного интеллекта и передовых возможностей редактирования видео.
+
+Сегодня NVIDIA представляет программу Creator Ready Driver, которая обеспечит художникам, дизайнерам и разработчикам игр максимальную производительность и надежность при работе с приложениями для дизайна.
+
+
+
+Для обеспечения максимального уровня надежности драйверы Creator Ready тщательно тестируются в разных версиях ведущих приложениях для дизайна. Для каждого типа рабочего процесса NVIDIA также проводит всестороннее тестирование в нескольких приложениях, позволяющее оценить качество драйвера непосредственно в рабочем процессе.
+
+Обновления Creator Ready Driver запланированы в привязке к релизам ключевых обновлений приложений для дизайна, гарантируя наилучшую совместимость и производительность для тех, кто работает на ПК.
+
+Game Ready драйверы, как и прежде, будут выходить в привязке к появлению новых ПК-игр и дополнительного игрового контента. Оба типа драйверов - Game Ready и Creator Ready – включают весь набор функционала NVIDIA и поддержку игр и приложений. Однако дизайнеры теперь получат возможность получать специализированные драйверы, отвечающие их специфическим требованиям.
+
+Первая сборка Creator Ready драйверов уже доступна на сайте NVIDIA.com и GeForce Experience. В GeForce Experience переключиться между драйверами Game Ready и Creator Ready можно в любое время, выбрав нужную опцию в меню. Creator Ready драйверы поддерживают графические процессоры GeForce RTX, GTX и TITAN на базе Turing, TITAN V на базе Volta, GeForce GTX и TITAN на базе Pascal и все современные GPU Quadro.
+
+RTX ускоряет творческий процесс
+
+Актуальная версия Creator Ready драйверов (версия 419.67) повышает производительность на 8-12%* в ведущих приложениях для дизайна и оптимизирована для новейших RTX-ускоренных приложений, включая:
+Autodesk Arnold 5.3
+Доступ к beta-версии Arnold: www.arnoldrenderer.com.
+Unreal Engine 4.22
+Unreal Engine 4.22 с поддержкой трассировки лучей доступен в ознакомительной версии, финальная версия будет доступна через 2 недели. Подробнее об анонсах GDC по Unreal Engine 4.2.2. смотрите здесь.
+REDCINE-X PRO 51
+С последней бета-версией REDCINE-X PRO видеоредакторы могут декодировать и проводить демозаику до 8K 24 FPS 12:1.
+Adobe Photoshop Lightroom CC
+Adobe недавно представили Enhance Details для Lightroom CC, в котором применяется машинное обучение и ИИ — обученная сверточная нейронная сеть - для улучшения изображений в фотографиях. С помощью GPU NVIDIA RTX фотографы смогут улучшать свои фотографии в 4 раза быстрее по сравнению с использованием интегрированной графики.
+Substance Designer от Adobe
+В Substance Designer недавно была добавлена поддержка DirectX Ray Tracing for Light Baking, позволяющая дизайнерам отрисовывать материалы намного быстрее (16 секунд вместо 14 минут) на GPU NVIDIA RTX.
+В дополнение к поддержке RTX-ускоренных приложений, драйверы Creator Ready обеспечивают преимущество в производительности над драйверами Quadro (версия 415) в популярных приложениях для дизайна:
+
+
+
+*Результаты получены на системе с Windows 10 (RS4), Intel Xeon Gold 6154 CPU (3GHz), 64GB DDR4 и GeForce RTX 2080 с драйверами R415 и R418.
+
+Подробнее об RTX-ускоренных приложениях.
+
+Полезные ссылки:
+Blog post summary on creator announcements
+Press release from GTC 2019 on RTX-accelerated apps
+Blog post on Unreal Engine 4.22
+NVIDIA Creator Website
+Creator Ready Driver download page
+]]></text></doc>

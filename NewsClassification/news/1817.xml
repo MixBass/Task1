@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/itnews/show/92988/nvidia-otkryvaet-dostup-k-sdk-mdl-material-definition-language</link><category verify="true" type="str" auto="true"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="true"><![CDATA[14 августа 2018, вторник 20:31]]></date><title verify="true" type="str" auto="true"><![CDATA[NVIDIA открывает доступ к SDK MDL (Material Definition Language)]]></title><author verify="true" type="str" auto="true"><![CDATA[admin]]></author><text verify="true" type="str" auto="true"><![CDATA[  Пакет MDL – набор инструментов, которые позволяют передавать с помощью приложений рендеринга реальные ощущения от материалов, - уже давно поддерживается разработчиками. Он позволяет конечным пользователям пересылать между соответствующими приложениями физические корректные материалы и источники света.
+
+Новый SDK с открытым исходным кодом NVIDIA MDL позволяет разработчикам подстраивать MDL под свои нужды. Они могут добавлять функциональность, работать в более широком спектре приложений, осваивать новые платформы, портировать свои решения на iPad или Android, создавать новые бэк-энды и многое другое. С полным доступом к языку MDL разработчики могут с легкостью создавать свои приложения вокруг этого формата благодаря неограниченному доступу к спецификациям.
+
+
+
+SDK с открытым кодом NVIDIA MDL доступен с по ссылке https://developer.nvidia.com/mdl-sdk.
+]]></text></doc>

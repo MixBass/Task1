@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/itnews/show/92987/veduschie-razrabotchiki-graficheskogo-po-berut-na-vooruzhenie-nvidia-rtx</link><category verify="true" type="str" auto="true"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="true"><![CDATA[14 августа 2018, вторник 20:26]]></date><title verify="true" type="str" auto="true"><![CDATA[Ведущие разработчики графического ПО берут на вооружение NVIDIA RTX]]></title><author verify="true" type="str" auto="true"><![CDATA[admin]]></author><text verify="true" type="str" auto="true"><![CDATA[  Ведущие разработчики ключевых приложений для создания продуктов повседневного использования, автомобилей, фильмов, научной визуализации переходят на Turing – новую графическую архитектуру NVIDIA.
+
+Представленная сегодня на SIGGRAPH, архитектура Turing обеспечивает ускорение 4-х ключевых элементов: ИИ, трассировки лучей, программируемых шейдеров и симуляций.
+
+Дизайнеры теперь могут выполнять итерации моделей продуктов или зданий с точным освещением, тенями и отражениями в реальном времени. Раньше им приходилось использовать более низкое разрешение для промежуточных этапов визуализации проектов, чтобы получить более-менее точное представление о будущем результате, и только затем отправлять файлы на CPU-ферму для рендеринга, который занимал от нескольких минут до нескольких часов в зависимости от сложности. Только на финальной стадии они получали точное представление о том, как будет выглядеть их продукт в реальном мире. Теперь этот процесс может быть интерактивным на системе с Quadro RTX.
+
+
+
+То же самое имеет самое прямое отношение к визуализации в области индустрии развлечений.
+
+Но преимущества Quadro RTX на этом не заканчиваются. В платформу RTX входит NGX - новая технология NVIDIA для внедрения ИИ в графический конвейер. NVIDIA предоставляет SDK, который позволяет разработчикам внедрять эффекты на базе ИИ в свои приложения. Технология NGX позволяет, например, создавать замедленную съемку на базе данных обычной камеры, как если бы вы использовали данные специализированной камеры за $100 000. Или применять ИИ для повышения разрешения и четкости архивных снимков. Или удалять дефекты с фотографий и автоматически корректировать фон. Подробнее об этих возможностях смотрите в данной работе.
+
+Новые возможности Quadro RTX идут в сочетании с ростом производительности и повышением точности отрисовки растровой графики с помощью новых передовых шейдеров. А 4608 ядер CUDA для параллельных вычислений означают, что разработчикам доступна аппаратная платформа, не имеющая аналогов.
+
+Поэтому неудивительно, что разработчики приложений не упускают шанс предоставить потрясающие возможности и 30-кратный прирост скорости (по сравнению с рендерингом на CPU) своим клиентам.
+
+Среди пионеров – ведущие разработчики ПО и студии визуальных эффектов:
+Adobe Dimension CC
+Allegorithmic Project Alchemist
+Allegorithmic Substance Designer
+Altair Thea Render
+ANSYS Optis VRXPERIENCE and Speos
+Autodesk Arnold
+Blackmagic DaVinci Resolve
+Blender Cycles
+Cebas finalRender
+Chaos Group
+Dassault Systèmes 3DEXPERIENCE CATIA
+Dassault Systèmes HomebyMe
+Dassault Systèmes SOLIDWORKS Visualize
+EA SEED
+Epic Games’ Unreal Engine
+ESI Group IC.IDO
+ESRI ArcGIS Pro
+Isotropix Clarisse
+Kitware ParaView
+Otoy OctaneRender
+Pixar Renderman
+PocketStudio
+Redshift 3.0
+Remedy Entertainment
+Siemens NX
+University of Illinois VMD
+Weta Digital
+]]></text></doc>

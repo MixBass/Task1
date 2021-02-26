@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/hardnews/show/107028/amd-ryzen-5-5600x-na-chastote-okolo-6-0-ggc-obnovil-seriju-rekordov</link><category verify="true" type="str" auto="true"><![CDATA[Новости Hardware]]></category><date verify="true" type="str" auto="true"><![CDATA[27 ноября 2020, пятница 17:01]]></date><title verify="true" type="str" auto="true"><![CDATA[AMD Ryzen 5 5600X на частоте около 6.0 ГГц обновил серию рекордов]]></title><author verify="true" type="str" auto="true"><![CDATA[Алексей Сычёв]]></author><text verify="true" type="str" auto="true"><![CDATA[  Израильскому оверклокеру shar00750 достался удачный экземпляр процессора AMD Ryzen 5 5600X, который при охлаждении жидким азотом в материнской плате AORUS X570 MASTER на базе набора логики AMD X570 покорил частоты свыше 5.9 ГГц с сохранением активности шести ядер и двенадцати потоков. В тесте wPrime 32M на частоте 5975 МГц он продемонстрировал лучший результат среди шестиядерных моделей, соответствующий 2,366 секунды.
+ 
+ 
+ 
+ 
+ В тесте wPrime 1024M на идентичной частоте процессор показал результат в 1 минуту 4,466 секунды, став лучшим в модельном зачёте.
+ 
+ 
+ 
+ 
+ На более низких частотах процессор установил несколько рекордов в модельном зачёте, в Geekbench3 Multi Core он набрал 48 013 баллов на частоте 5950 МГц, став лучшим среди процессоров с шестью ядрами.
+]]></text></doc>

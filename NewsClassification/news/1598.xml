@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/itnews/show/98621/pobediteli-konkursa-nvidia-dxr-spotlight-i-novye-rtx-skrinshoty-control</link><category verify="true" type="str" auto="true"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="true"><![CDATA[6 августа 2019, вторник 17:07]]></date><title verify="true" type="str" auto="true"><![CDATA[Победители конкурса NVIDIA DXR Spotlight и новые RTX-скриншоты Control]]></title><author verify="true" type="str" auto="true"><![CDATA[admin]]></author><text verify="true" type="str" auto="true"><![CDATA[  Инди-разработчики блистают в конкурсе NVIDIA DXR Spotlight
+
+Определена тройка победителей в продолжавшемся несколько месяцев творческом конкурсе DXR Spotlight от NVIDIA, Epic и Microsoft.
+
+В конкурсе DXR Spotlight, проводившемся в рамках программы NVIDIA Indie Spotlight, разработчики игр и создатели контента представили свои демо, созданные с помощью Unreal Engine 4.22, Microsoft DirectX 12 и DirectX Raytracing с отражениями, тенями и освещением на базе трассировки лучей в реальном времени.
+
+Трассировка игр в реальном времени уже стала частью многих популярных больших франшиз и игр категории AAA. Однако результаты конкурса показывают, что овладеть искусством трассировки лучей может не только крупная компания, но и любой инди-разработчик.
+
+В конкурсе зарегистрированы десятки работ. И вот тройка победителей:
+Christian Hecht с проектом «Attack from Outer Space»
+Проект имитирует научно-фантастические фильмы 1950-х годов с использованием теней, отражений и глобального освещения на базе трассировки лучей в реальном времени и пронизан ностальгией.
+Opus Visual с проектом LP Trailer
+LP Trailer позволяет вам управлять трейлером и наслаждаться трассированными отражениями и освещением.
+Alden Fillion с проектом Diode
+В Diode вы оказываетесь в замке, где футуристический рыцарь борется со злыми силами. Для впечатляющих результатов используются трассированные отражения.
+Все три победителя получают GPU NVIDIA TITAN RTX.
+
+Трассировка лучей в реальном времени изменяет подход к разработке игр и значительно повышает качество изображения. Трассировка лучей основана на мощной экосистеме, включающей стандартные в индустрии API, поддержку в популярных и частных игровых движках и все инструменты разработки, необходимые для успешной реализации. Графические процессоры NVIDIA GeForce RTX – единственная аппаратная платформа, которая обеспечивает рендеринг игры с трассировкой лучей в реальном времени.
+
+Рекомендуемые спецификации и скриншоты Control
+
+Игра Control, выход которой намечен на 27 августа и которую можно получить в подарок при покупке GPU GeForce RTX, получила обновление по рекомендуемым спецификациям. Трассировку лучей обеспечит уже GeForce RTX 2060.
+
+У нас есть несколько новых скриншотов с включенной и выключенной трассировкой реального времени, которые показывают, насколько меняются сцены в игре.
+
+
+
+
+
+Видео:
+
+LP Trailer: https://youtu.be/IsGyhtIKUoA
+
+Diode: https://youtu.be/MANZ_P3T7Cs
+
+Attack from Outer Space: https://youtu.be/tf95_ukvZ-o
+
+Полезные ссылки:
+
+Пост по победителям в конкурсе DXR Spotlight:
+https://blogs.nvidia.com/blog/2019/08/05/dxr-spotlight-contest/
+
+10 лучших работ DXR Spotlight:
+https://developer.nvidia.com/dxr-spotlight-winners
+
+Подробнее о конкурсе DXR Spotlight:
+https://news.developer.nvidia.com/dxr-spotlight-contest/
+
+По программе NVIDIA Indie Spotlight:
+https://blogs.nvidia.com/blog/2017/11/09/nvidia-indie-spotlight-program-games/
+
+Регистрация разработчиков в программе NVIDIA Indie Spotlight Program:
+https://developer.nvidia.com/Indie-Spotlight
+
+Рекомендуемые спецификации для Control:
+https://www.nvidia.com/en-us/geforce/news/control-pc-system-requirements-ray-tracing-trailer/
+и https://controlgame.com/control-requirements-pc/
+
+Комплект «Супер Mощь в твоем ПК»:
+https://www.nvidia.com/ru-ru/geforce/campaigns/control-wolfenstein-youngblood-bundle/
+]]></text></doc>

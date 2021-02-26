@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="false" type="str" verify="true"></link><category verify="true" type="str" auto="false"><![CDATA[Новости Hardware]]></category><date verify="true" type="str" auto="false"><![CDATA[]]></date><title verify="true" type="str" auto="false"><![CDATA[Новости Hardware]]></title><author verify="true" type="str" auto="false"><![CDATA[]]></author><text verify="true" type="str" auto="false"><![CDATA[   британский   счастливчик ,  который   не   только   досрочно   получать   экземпляр   процессор   amd   ryzen   5   5600x ,  но   и   смочь   поделиться   результат   его   тестирование   с   аудитория   hwbot ,  в   большинство   случай   добиваться   работа   на   частота   около   4.7 - 4.8   ггц   с   сохранение   активность   шесть   ядро ,  но   в   тесто   geekbench3   single   core   он   подымать   частотный   планка   до   4949   мгц . 
+  
+  
+  
+  
+   напоминать ,  весь   это   происходить   с   использование   система   воздушный   охлаждение   phanteks   на   открытый   стенд ,  поэтому   никакой   экзотика   в   данный   смысл   не   применяться . 
+  
+  
+  
+  
+   для   покорение   частота   4949   мгц   процессор   приходиться   сохранять   активность   лишь   два   ядро   и   два   поток .   в   тесто   geekbench3   single   core   на   указанный   частота   он   набирать   7296   балл ,  занимать   88 - е   место   в   общий   зачет . 
+]]></text></doc>

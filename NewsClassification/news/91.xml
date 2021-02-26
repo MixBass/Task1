@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/hardnews/show/107846/opublikovano-izobrazhenie-kristalla-intel-rocket-lake-s</link><category verify="true" type="str" auto="true"><![CDATA[Новости Hardware]]></category><date verify="true" type="str" auto="true"><![CDATA[12 января 2021, вторник 06:55]]></date><title verify="true" type="str" auto="true"><![CDATA[Опубликовано изображение кристалла Intel Rocket Lake-S]]></title><author verify="true" type="str" auto="true"><![CDATA[Алексей Сычёв]]></author><text verify="true" type="str" auto="true"><![CDATA[  С виртуальной трибуны CES 2021 представители Intel несколько часов назад признались, что процессоры Rocket Lake-S в исполнении LGA 1200 выйдут на рынок до конца текущего квартала. Редактору популярного немецкого сайта HardwareLUXX удалось получить изображение кристалла данных процессоров, явно извлечённое из маркетинговых материалов Intel.
+ 
+ 
+ 
+ 
+ Восемь вычислительных ядер с архитектурой Cypress Cove соседствуют на 14-нм кристалле с интегрированной графической подсистемой Intel Xe-LP и двадцатью линиями PCI Express 4.0. Контроллер памяти способен работать как с DDR4, так и с LPDDR4. Как уже отмечалось ранее, количество вычислительных ядер пришлось ограничить восемью штуками, поскольку при наличии десяти кристалл получился бы слишком крупным. В этом случае Intel в очередной раз стала заложницей собственных технологических возможностей – процессоры Rocket Lake решено было выпускать по 14-нм нормам. С другой стороны, 10-нм процессоры Alder Lake-S выйдут уже во втором полугодии, но им потребуются новые материнские платы с разъёмом LGA 1700.
+]]></text></doc>

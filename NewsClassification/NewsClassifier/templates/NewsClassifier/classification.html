@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Классификатор новостей</title>
+</head>
+
+<body>
+    <div>
+        <div><h1>Сервис по классификации новостей</h1></div>
+        <div><a href="/">Классификатор новостей</a></div>
+        <div><a href="/news-filter">Коллекция новостей</a></div>
+        <div><a href="/new-add">Добавить новость</a></div>
+    </div>
+
+    <div id="content">
+        <div><h2>Классификатор новостей</h2></div>
+        <div>
+            <p>Введите текст новости</p>
+            <textarea cols="120" rows="20" id="newText"></textarea>
+        </div>
+
+        <div>
+            <button id="classificationButton" onclick="classifyNew()">Классифицировать новость</button>
+        </div>
+
+        <div>
+            <img hidden id="preloader" src="/static/images/preloader.gif"/>
+        </div>
+
+        <div>
+            <p id="classificationError"></p>
+        </div>
+
+        <div>
+            <p id="classificationResult"></p>
+        </div>
+    </div>
+
+    <script src="/static/checks.js"></script>
+    <script src="/static/classificationFunctions.js"></script>
+</body>
+</html>

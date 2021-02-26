@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Коллекция новостей</title>
+</head>
+
+<body>
+    <div>
+        <div><h1>Сервис по классификации новостей</h1></div>
+        <div><a href="/">Классификатор новостей</a></div>
+        <div><a href="/news-filter">Коллекция новостей</a></div>
+        <div><a href="/new-add">Добавить новость</a></div>
+    </div>
+
+    <div id="content">
+        <div><h2>Коллекция новостей</h2></div>
+
+        <div>
+            <div>
+                <button onclick="showAllNews(1)">Все новости</button>
+            </div>
+            <div>
+                <button onclick="showNewsByCategory('hardware', 1)">Новости Hardware</button>
+            </div>
+            <div>
+                <button onclick="showNewsByCategory('software', 1)">Новости Software</button>
+            </div>
+            <div>
+                <button onclick="showNewsByCategory('it', 1)">Новости IT-рынка</button>
+            </div>
+            <div>
+                <button onclick="showNewsByCategory('site', 1)">Новости Сайта</button>
+            </div>
+
+            <div>
+                <input type="text" id="searchInput"/>
+                <button onclick="showNewsBySearch(' ', 1)"><img src="/static/images/search.png" height="25" width="25" /></button>
+            </div>
+        </div>
+
+        <div>
+            <img hidden id="preloader" src="/static/images/preloader.gif"/>
+            <p id="filterResult"></p>
+            <p id="filterError"></p>
+        </div>
+
+        <div id="newsPreview">
+
+        </div>
+
+        <div id="pages">
+
+        </div>
+    </div>
+
+    <script src="/static/checks.js"></script>
+    <script src="/static/filterFunctions.js"></script>
+    <script defer type="text/javascript">
+        showAllNews(1);
+    </script>
+</body>
+</html>

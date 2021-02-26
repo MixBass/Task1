@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/itnews/show/107386/v-novom-game-ready-drajvere-nvidia-dobavlena-podderzhka-vulkan-ray-tracing-quake-ii-rtx-stala-pervoj-igroj-i-benchmarkom-s-novym-api</link><category verify="true" type="str" auto="true"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="true"><![CDATA[15 декабря 2020, вторник 21:59]]></date><title verify="true" type="str" auto="true"><![CDATA[В новом Game Ready драйвере NVIDIA добавлена поддержка Vulkan Ray Tracing; Quake II RTX стала первой игрой и бенчмарком с новым API]]></title><author verify="true" type="str" auto="true"><![CDATA[admin]]></author><text verify="true" type="str" auto="true"><![CDATA[  Это исторический день для игр с поддержкой Vulkan, поскольку NVIDIA выпустила новый Game Ready драйвер, который официально поддерживает Vulkan Ray Tracing. Мы также обновили демо Quake II RTX для поддержки нового отраслевого стандарта.
+
+Внедрить трассировку лучей в Vulkan уже несколько лет пытаются многие компании, и на всех этапах этого процесса NVIDIA занимала лидирующую позицию. Компания была избрана председателем подгруппы по трассировке лучей Vulkan в Khronos, передала в Khronos структуру нашего расширения, чтобы помочь рабочей группе Vulkan добиться быстрого прогресса, и предоставила драйверы для предварительной версии расширения трассировки лучей Vulkan, чтобы получить обратную связь от разработчиков. Теперь мы первые внедряем эти расширения в игру.
+
+Quake II RTX: трассировка лучей для всех!
+
+Vulkan Ray Tracing – теперь не только для GeForce RTX. Погрузитесь в Quake II RTX и последнее обновление игры. Quake II RTX стала первой игрой с поддержкой недавно представленных независимых от платформы расширений Vulkan Ray Tracing, и ее можно запускать на любом совместимом GPU. Quake II RTX больше не зависит от специфичных для вендора расширений. Подробнее здесь.
+
+Quake II RTX стала первой в мире игрой с полной поддержкой технологии Path Tracing, которая объединяет все световые эффекты, такие как тени, отражения, преломления и другие, в единый алгоритм трассировки лучей. В результате игра, выпущенная еще в 1997 году, приобрела совершенно новый потрясающий вид.
+
+Загрузите новый Game Ready драйвер, испытайте Vulkan Ray Tracing!
+
+В Quake II RTX также есть встроенный бенчмарк, чтобы вы могли проверить, как разные GPU справляются с трассировкой лучей. Это первый в мире бенчмарк для Vulkan Ray Tracing.
+
+Загрузите наш новый Game Ready драйвер, а игру Quake II RTX со Steam. Первые три уровня бесплатны. При покупке игры поддержка трассировки лучей появится во всех уровнях.
+
+Полезные ссылки:
+
+По Game Ready драйверу:
+https://www.nvidia.com/en-us/geforce/news/quake-2-rtx-vulkan-ray-tracing-game-ready-driver
+
+Подробнее о драйвере для Vulkan:
+https://news.developer.nvidia.com/vulkan-ray-tracing-production-drivers-and-quake-ii-rtx-cross-vendor-extensions/
+
+Загрузить драйвер NVIDIA:
+https://www.nvidia.ru/Download/index.aspx?lang=ru
+
+Quake II RTX в Steam: https://store.steampowered.com/agecheck/app/1089130/
+
+По SDK, инструментам и драйверам для Vulkan с поддержкой трассировки лучей:
+https://www.khronos.org/news/press/vulkan-sdk-tools-and-drivers-are-ray-tracing-ready
+]]></text></doc>

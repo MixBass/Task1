@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/hardnews/show/107675/poyavilis-podrobnosti-o-podderzhke-pci-express-5-0-mobilnymi-processorami-intel-alder-lake</link><category verify="true" type="str" auto="true"><![CDATA[Новости Hardware]]></category><date verify="true" type="str" auto="true"><![CDATA[1 января 2021, пятница 10:26]]></date><title verify="true" type="str" auto="true"><![CDATA[Появились подробности о поддержке PCI Express 5.0 мобильными процессорами Intel Alder Lake]]></title><author verify="true" type="str" auto="true"><![CDATA[Алексей Сычёв]]></author><text verify="true" type="str" auto="true"><![CDATA[  По имеющимся неофициальным данным, компания AMD внедрит поддержку памяти типа DDR5 в потребительском секторе не ранее 2022 года, поэтому представляемые во второй половине наступившего года 10-нм процессоры Intel Alder Lake могут стать пионерами подобной миграции. Не менее важно и то, что они обеспечат поддержку интерфейса PCI Express 5.0, и в мобильном сегменте тоже.
+ Редактор популярного немецкого ресурса HardwareLUXX пояснил, как может быть реализована в процессорах Alder Lake-P для ноутбуков поддержка интерфейса PCI Express 5.0. До восьми линий могут использоваться для обмена данными между процессором и встроенной, либо дискретной графикой.
+ 
+ 
+ 
+ 
+ Процессоры Alder Lake-P также обеспечат поддержку пары каналов PCI Express x4 поколения PCI Express 4.0 для подключения твердотельных накопителей. Подобные предположения строятся на основе записи, недавно сделанной представителем Intel на страницах ресурса, посвящённого разработке программного обеспечения с открытым кодом.
+]]></text></doc>

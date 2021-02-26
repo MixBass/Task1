@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/softnews/show/107078/emulyator-playstation-2-zapustili-na-xbox-series-s</link><category verify="true" type="str" auto="true"><![CDATA[Новости Software]]></category><date verify="true" type="str" auto="true"><![CDATA[30 ноября 2020, понедельник 22:54]]></date><title verify="true" type="str" auto="true"><![CDATA[Эмулятор PlayStation 2 запустили на Xbox Series S]]></title><author verify="true" type="str" auto="true"><![CDATA[Игнатий Колыско]]></author><text verify="true" type="str" auto="true"><![CDATA[  Как мы все помним, официально консоль PlayStation 5 не воспроизводит игры с PlayStation 2. Зато, кажется, новая Xbox Series сможет это делать, пусть и не официально. Разумеется, сама Sony никогда не выдаст разрешение на запуск игр со своих старых платформ на консолях конкурентов. Зато доморощенных энтузиастов это ограничение никогда не остановит.
+ 
+ 
+ Автор YouTube-канала Modern Vintage Gamer опубликовал видеоматериал, в котором были запечатлены отдельные проекты с PS2, работающие на Xbox Series S. Как это получилось? Дело в том, что у консолей Microsoft имеется режим разработчика, который позволяет осуществлять запуск приложений с UWP (Universal Windows Platform). И в число таких приложений входит RetroArch. Это большая платформа для эмуляторов, содержащая в себе в том числе PCSX2 — известнейший эмулятор консоли PlayStation 2.
+ Пользователь Modern Vintage Gamer поясняет, что пока эмулятор PCSX2 для RetroArch работает не совсем хорошо. Есть проблемы с образами дисков (нельзя подключить образ размером более 2 Гбайт), кое-где сбоит звук и проседает количество fps. Но запуск многих легендарных проектов с PlayStation 2 проходит отлично. Те же TimeSplitters 2 или Silent Hill 2 работают на Xbox Series S без каких-либо проблем.
+ 
+ 
+ Ближе к завершению ролика неравнодушный энтузиаст дал понять, что его приятно удивила возможность эмуляции PlayStation 2 на Xbox Series S. Причём, всё тестирование проходило на более слабой консоли, в случае с Series X дела должны обстоять точно не хуже.
+]]></text></doc>

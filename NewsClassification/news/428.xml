@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/hardnews/show/107048/intel-core-i7-7740x-na-chastote-7-0-ggc-obnovil-paru-rekordov</link><category verify="true" type="str" auto="true"><![CDATA[Новости Hardware]]></category><date verify="true" type="str" auto="true"><![CDATA[29 ноября 2020, воскресенье 06:49]]></date><title verify="true" type="str" auto="true"><![CDATA[Intel Core i7-7740X на частоте 7.0 ГГц обновил пару рекордов]]></title><author verify="true" type="str" auto="true"><![CDATA[Алексей Сычёв]]></author><text verify="true" type="str" auto="true"><![CDATA[  Выход процессоров Kaby Lake-X для компании Intel был довольно странным маркетинговым экспериментом, когда дорогая платформа LGA 2066 приютила пару моделей классом ниже, поэтому их поставки были прекращены достаточно быстро. Между тем, наличие лишь четырёх вычислительных ядер позволяло данным процессорам неплохо раскрывать частотный потенциал, поэтому в рейтинге HWBot они продолжают блистать до сих пор.
+ Французский энтузиаст Rady в тесте GPUPI for CPU 1B с помощью процессора Intel Core i7-7740X занял первое место среди моделей с четырьмя ядрами, получив результат в 3 минуты 31,183 секунды.
+ 
+ 
+ 
+ 
+ Процессор охлаждался жидким азотом, его частота достигла 7062 МГц, при этом он сохранил активность четырёх ядер и восьми потоков.
+ 
+ 
+ 
+ 
+ В тесте Cinebench R20 этот же процессор занял первое место на частоте 6970 МГц с результатом 3726 баллов.
+]]></text></doc>

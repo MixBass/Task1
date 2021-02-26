@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/itnews/show/99119/novyj-studio-drajver-s-optimizaciej-dlya-maxon-cinema-4d-r21-i-drugih-tvorcheskih-prilozhenij</link><category verify="true" type="str" auto="true"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="true"><![CDATA[5 сентября 2019, четверг 18:48]]></date><title verify="true" type="str" auto="true"><![CDATA[Новый Studio драйвер с оптимизацией для Maxon Cinema 4D R21 и других творческих приложений]]></title><author verify="true" type="str" auto="true"><![CDATA[admin]]></author><text verify="true" type="str" auto="true"><![CDATA[  Доступен новый NVIDIA Studio драйвер, обеспечивающий прирост производительности в следующих приложениях для создания контента:
+Maxon Cinema 4D R21,
+Epic Games Unreal Engine 4.23,
+Adobe Lightroom Classic 8.4,
+Adobe Substance Designer 2019.2,
+Blackmagic Design DaVinci Resolve Studio 16.0.
+Новейшее обновление Unreal Engine 4.23 уже доступно. Трассировка лучей в UE 4.23 повышает стабильность работы и производительность и добавляет новые материалы и типы геометрии, включая ландшафтную геометрию, образцы статических сеток (instanced static meshes), процедурные сетки и систему частиц Niagara на основе спрайтов. Улучшено качество шумоподавления и глобального освещения на базе трассировки лучей. Улучшена поддержка многократных отражений трассировкой лучей путем использования кубических карт на последнем уровне отражений. Подробнее в блоге Unreal Engine и блоге NVIDIA для разработчиков.
+
+
+
+Новейшая версия Cinema 4D R21 располагает новыми возможностями, включая новую систему "Caps and Bevel" для экструзии, изменения формы и анимирования 3D текста и новый объект динамики силового поля, который позволяет создавать оптимизированную анимированную графику. Приложение также поддерживает новую систему материалов, упрощая их выбор в любом поддерживаемом 3D-рендерере, например, Redshift. Redshift – это GPU-ускоряемый рендерер, который использует NVIDIA CUDA и OptiX для шумоподавления и в будущем релизе добавит поддержку OptiX для ускоренной трассировки лучей на RTX. Подробнее читайте на сайте Maxon.
+
+Новейший STUDIO драйвер доступен для загрузки в GeForce Experience.
+
+Подробнее здесь.
+]]></text></doc>

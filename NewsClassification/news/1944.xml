@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/itnews/show/91074/komanda-rossijskih-overklokerov-vyshla-na-vtoroe-mesto-v-mire</link><category verify="true" type="str" auto="true"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="true"><![CDATA[26 апреля 2018, четверг 13:32]]></date><title verify="true" type="str" auto="true"><![CDATA[Команда российских оверклокеров вышла на второе место в мире]]></title><author verify="true" type="str" auto="true"><![CDATA[admin]]></author><text verify="true" type="str" auto="true"><![CDATA[  С 12-го по 15-ое апреля 2018 года в московском офисе компании ASUS собрались лучшие оверклокеры России из команды Team Russia для завоевания новых рекордов в различных дисциплинах.
+
+
+
+Компания ASUS совместно с партнерами – HyperX и SeaSonic, пригласила на оверклокерский турнир ведущих российских оверклокеров: Atheros, _12_, Xtreme Addict, Smoke и slamms из команды TeamRussia.
+
+Оверклокеры испытали на предельной скорости системы на отборных процессорах и комплектующих ASUS Republic of Gamers, а также впервые в России установили рекорд по разгону самой мощной в мире видеокарты NVIDIA Titan V.
+
+
+
+Основной двух тестовых стендов стали материнские платы ASUS ROG Rampage VI Apex, построенные на базе системной логики Intel X299, а также ASUS ROG Maximus X Apex на базе чипсета Intel Z370, которые демонстрируют впечатляющую производительность при экстремальных нагрузках и минусовых температурах.
+
+
+
+Оверклокеры использовали отборные скальпированные процессоры Intel Core i9-7980XE, разогнанные до частоты 5,8 ГГц, а также процессоры Intel Core i7-8700K, работающие на частоте 7 ГГц с использованием жидкого азота. Температура CPU на тестовых стендах при разгоне компонентов доходили до отметки минус 196 градусов по Цельсию.
+
+Для охлаждения видеокарты NVIDIA Titan V была использована уже зарекомендовавшая себя система охлаждения с использованием хладагента и сухого льда, которая позволяет держать в системе стабильную минусовую температуру.
+
+Дисковая подсистема стендов была организована сверхбыстрыми твердотельными накопителями от компании HyperX. Оверклокеры использовали проверенные модули оперативной памяти от HyperX. За питание разогнанных стендов отвечали высоконадежные блоки питания от компании SeaSonic.
+
+
+
+По результатам саммита оверклокеры завоевали 10 почетных наград в следующих дисциплинах:
+
+Наименование бенчмарка Результат Центральный процессор Материнская плата Графический процессор Место в мире
+3Dmark 11 – Performance 44803marks Intel Core i9 7980XE (5,8 ГГц) ASUS ROG Rampage VI Apex NVIDIA Titan V 1 (Titan V Rank)
+3Dmark 05 91459 marks Intel Core i7 8700K (7 ГГц) ASUS ROG Maximus X Apex ASUS ROG Strix GeForce GTX 1080 Ti 2 (Global 1x GPU Rank)
+Catzilla - 720P 113039 marks Intel Core i9 7980XE (5,8 ГГц) ASUS ROG Rampage VI Apex NVIDIA Titan V 2 (Titan V Rank)
+3Dmark Vantage - Performance 135264 marks Intel Core i9 7980XE (5,8 ГГц) ASUS ROG Rampage VI Apex NVIDIA Titan V 3 (Global 1x GPU Rank)
+Catzilla - 1440P 30714 marks Intel Core i9 7980XE (5,8 ГГц) ASUS ROG Rampage VI Apex NVIDIA Titan V 3 (Titan V Rank)
+Catzilla – 4K 15764 marks Intel Core i9 7980XE (5,6 ГГц) ASUS ROG Rampage VI Apex NVIDIA Titan V 3 (Titan V Rank)
+3Dmark – Fire Strike Ultra 10132 marks Intel Core i9 7980XE (5,7 ГГц) ASUS ROG Rampage VI Apex NVIDIA Titan V 3 (Titan V Rank)
+3Dmark – Fire Strike 36604 marks Intel Core i9 7980XE (5,7 ГГц) ASUS ROG Rampage VI Apex NVIDIA Titan V 3 (Titan V Rank)
+3Dmark – Fire Strike Extreme 19642 marks Intel Core i9 7980XE (5,7 ГГц) ASUS ROG Rampage VI Apex NVIDIA Titan V 3 (Titan V Rank)
+3Dmark – Time Spy 16578 marks Intel Core i9 7980XE (5,5 ГГц) ASUS ROG Rampage VI Apex NVIDIA Titan V 4 (Global 1x GPU Rank)
+
+
+Ссылки на рекорды:
+
+http://hwbot.org/submission/3841307_smoke_3dmark11___performance_titan_v_44803_marks
+http://hwbot.org/submission/3841308_smoke_3dmark05_geforce_gtx_1080_ti_91459_marks
+http://hwbot.org/submission/3841315_smoke_catzilla___720p_titan_v_85635_marks
+http://hwbot.org/submission/3841306_smoke_3dmark_vantage___performance_titan_v_135264_marks
+http://hwbot.org/submission/3841314_smoke_catzilla___1440p_titan_v_30714_marks
+http://hwbot.org/submission/3841312_smoke_catzilla___4k_titan_v_15764_marks
+http://hwbot.org/submission/3841906_smoke_3dmark___fire_strike_ultra_titan_v_10132_marks
+http://hwbot.org/submission/3841908_smoke_3dmark___fire_strike_titan_v_36604_marks
+http://hwbot.org/submission/3841902_smoke_3dmark___fire_strike_extreme_titan_v_19642_marks
+http://hwbot.org/submission/3841901_smoke_3dmark___time_spy_titan_v_16578_marks
+
+Такие результаты позволили российской команде Team Russia выйти на второе место в мире в рейтинге HWbot.
+
+
+
+О серии ROG
+
+Republic of Gamers («Республика Геймеров») – это принадлежащий компании ASUS бренд, под которым на рынок выходят геймерские продукты самого высокого уровня. Созданный в 2006 году, он охватывает множество продуктовых категорий, в том числе материнские платы, видеокарты, ноутбуки, стационарные компьютеры, мониторы, звуковое оборудование, маршрутизаторы и различные периферийные устройства. С брендом ROG компания ASUS активно участвует в жизни мирового геймерского сообщества, выступая спонсором крупнейших киберспортивных турниров. С помощью устройств серии ROG, которые являются популярнейшим выбором среди геймеров и энтузиастов по всему миру, установлены сотни рекордов оверклокинга. Всю информацию о ROG можно найти на сайте http://rog.asus.com.
+]]></text></doc>

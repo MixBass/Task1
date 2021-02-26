@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/hardnews/show/106492/pri-aktivnosti-dvuh-yader-amd-ryzen-5-5600x-pokoril-chastotu-4949-mgc</link><category verify="true" type="str" auto="true"><![CDATA[Новости Hardware]]></category><date verify="true" type="str" auto="true"><![CDATA[3 ноября 2020, вторник 12:12]]></date><title verify="true" type="str" auto="true"><![CDATA[При активности двух ядер AMD Ryzen 5 5600X покорил частоту 4949 МГц]]></title><author verify="true" type="str" auto="true"><![CDATA[Алексей Сычёв]]></author><text verify="true" type="str" auto="true"><![CDATA[  Британский счастливчик, который не только досрочно получил экземпляр процессора AMD Ryzen 5 5600X, но и смог поделиться результатами его тестирования с аудиторией HWBot, в большинстве случаев добился работы на частотах около 4.7-4.8 ГГц с сохранением активности шести ядер, но в тесте Geekbench3 Single Core он поднял частотную планку до 4949 МГц.
+ 
+ 
+ 
+ 
+ Напомним, всё это происходило с использованием системы воздушного охлаждения Phanteks на открытом стенде, поэтому никакой экзотики в данном смысле не применялось.
+ 
+ 
+ 
+ 
+ Для покорения частоты 4949 МГц процессору пришлось сохранить активность лишь двух ядер и двух потоков. В тесте Geekbench3 Single Core на указанной частоте он набрал 7296 баллов, заняв 88-е место в общем зачёте.
+]]></text></doc>

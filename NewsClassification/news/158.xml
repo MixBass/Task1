@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/hardnews/show/107698/processor-intel-xeon-l3014-obnovil-rekord-hwbot-x265-4k-na-chastote-5670-mgc</link><category verify="true" type="str" auto="true"><![CDATA[Новости Hardware]]></category><date verify="true" type="str" auto="true"><![CDATA[3 января 2021, воскресенье 08:38]]></date><title verify="true" type="str" auto="true"><![CDATA[Процессор Intel Xeon L3014 обновил рекорд HWBot x265 4K на частоте 5670 МГц]]></title><author verify="true" type="str" auto="true"><![CDATA[Алексей Сычёв]]></author><text verify="true" type="str" auto="true"><![CDATA[  Итальянский оверклокер GRIFF нашёл способ скоротать праздничные дни с пользой для мировой статистики ретроразгона. Центральный процессор Intel Xeon L3014 он установил в материнскую плату ASUS Rampage Extreme на основе набора логики Intel X48, а затем при помощи системы фазового перехода каскадного типа разогнал его до 5670 МГц.
+ 
+ 
+ 
+ 
+ Учитывать количество активных ядер для этой модели процессора очень легко – оно не превышает единицы в любом состоянии. Процессор Xeon L3014 поколения Wolfdale был представлен в первом квартале 2008 года, он выпускался по 45-нм технологии. В тесте HWBot x265 4K на указанной частоте данный процессор смог продемонстрировать результат 0,988 кадра в секунду, что является лучшим достижением для одноядерных моделей.
+]]></text></doc>

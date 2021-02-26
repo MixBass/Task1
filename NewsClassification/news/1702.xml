@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/itnews/show/95666/nvidia-dlss-podnimaet-proizvoditelnost-v-3dmark-port-royal-do-50</link><category verify="true" type="str" auto="true"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="true"><![CDATA[4 февраля 2019, понедельник 18:59]]></date><title verify="true" type="str" auto="true"><![CDATA[NVIDIA DLSS поднимает производительность в 3DMark Port Royal до 50%]]></title><author verify="true" type="str" auto="true"><![CDATA[admin]]></author><text verify="true" type="str" auto="true"><![CDATA[  Futuremark сегодня представила новый бенчмарк для технологии NVIDIA Deep Learning Super Sampling ( DLSS) в рамках первого в мире тестового пакета для трассировки лучей 3DMark Port Royal. Технология DLSS ускоряет рендеринг с помощью алгоритмов искусственного интеллекта, при этом сохраняя ровные края объектов в 3DMark Port Royal. С включенной технологией RTX в 3DMark Port Royal геймеры получат лучшее из двух миров – красивую трассировку лучей в реальном времени и плавную смену кадров с DLSS.
+
+
+
+
+
+Высокие результаты 3DMark Port Royal с NVIDIA DLSS
+
+3DMark Port Royal – это новый тестовый инструмент, направленный на оценку отражений и теней, выполненных методом трассировки лучей в реальном времени. Его можно использовать, чтобы посмотреть, как меняется скорость трассировки лучей у разных графических процессоров NVIDIA GeForce RTX на базе архитектуры Turing. Новый тест DLSS демонстрирует весомый рост производительности с включенной трассировкой лучей реального времени.
+
+
+Включение DLSS в 3DMark Port Royal повышает производительность до 50%.
+
+
+
+Включение DLSS в 3DMark Port Royal повышает производительность до 50%.
+
+
+DLSS
+
+Технология DLSS использует многослойную нейронную сеть для определения силуэтов объектов и других элементов изображения, после чего применяет к ним индивидуальные алгоритмы сглаживания. Это позволяет сгладить края и при этом избежать размытости всего изображения в целом, как часто происходит в случае использования TAA или других методов. DLSS сохраняет четкость и резкость изображения, а также временную стабильность, одновременно повышая производительность.
+
+Геймеры готовы к 3DMark Port Royal с DLSS
+
+GeForce-геймеры уже сегодня могут загрузить новый Game Ready драйвер для 3DMark Port Royal с DLSS: https://www.geforce.com/drivers.
+
+Драйверы NVIDIA Game Ready выходят в день или накануне выхода популярных игр, чтобы обеспечить игрокам наилучшие впечатления. Инженеры NVIDIAдо последней минуты работают над оптимизацией производительности в играх. Дополнительной гарантией качества драйверов Game Ready является сертификат WHQL от Microsoft.
+
+Полезные ссылки:
+
+Изображения и скриншоты 3DMark Port Royal:
+www.nvidia-press.com
+
+Новости по включению DLSS в 3DMark Port Royal:
+https://www.nvidia.com/en-us/geforce/news/nvidia-dlss-3dmark-port-royal-benchmark
+
+По новому драйверу:
+https://www.nvidia.com/en-us/geforce/news/geforce-rtx-laptop-port-royal-dlss-game-ready-driver
+
+Загрузить драйвер:
+https://www.geforce.com/drivers
+
+Информация по NVIDIA DLSS:
+https://www.nvidia.com/en-us/geforce/news/graphics-reinvented-new-technologies-in-rtx-graphics-cards/#dlss
+
+Официальная страница 3DMark:
+https://benchmarks.ul.com/3dmark
+
+Результаты тестов получены на следующей системе: Intel Core i7 8086K @ 5.2ГГц (все ядра), 32ГБ RAM, Windows 10 RS5, NVIDIA Game Ready Driver 418.81, 2560x1440.
+]]></text></doc>

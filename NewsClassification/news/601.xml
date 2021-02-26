@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/hardnews/show/106564/kontroller-pamyati-amd-ryzen-5000-ne-preterpel-izmenenij-po-sravneniju-s-matisse</link><category verify="true" type="str" auto="true"><![CDATA[Новости Hardware]]></category><date verify="true" type="str" auto="true"><![CDATA[6 ноября 2020, пятница 12:23]]></date><title verify="true" type="str" auto="true"><![CDATA[Контроллер памяти AMD Ryzen 5000 не претерпел изменений по сравнению с Matisse]]></title><author verify="true" type="str" auto="true"><![CDATA[Алексей Сычёв]]></author><text verify="true" type="str" auto="true"><![CDATA[  Курирующий в AMD вопросы технического маркетинга Роберт Хэллок (Robert Hallock) после начала продаж процессоров Ryzen 5000 и появления первых санкционированных компанией обзоров «вышел в люди» с намерениями сделать некоторые разъяснения относительно уже существующих и будущих функциональных возможностей процессоров данного семейства.
+ 
+ 
+ 
+ 
+ Для тех, кто использует процессоры Ryzen предыдущих поколений, по его словам, нет необходимости обновлять BIOS до версии, содержащей AGESA 1.1.0.0. Это им ничего не даст и не имеет особого смысла. Владельцам процессоров Ryzen 5000 эта и последующие версии AGESA облегчат работу с памятью DDR4-4000 в синхронном режиме с шиной Infinity Fabric. А вот контроллер памяти новых процессоров остался без изменений, как справедливо отметил представитель AMD. Он мог бы измениться только при условии модернизации кристалла логики ввода-вывода, а он должен был остаться прежним.
+]]></text></doc>

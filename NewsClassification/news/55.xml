@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/hardnews/show/107945/nastolnaya-versiya-amd-cezanne-ne-budet-podderzhivat-pci-express-4-0</link><category verify="true" type="str" auto="true"><![CDATA[Новости Hardware]]></category><date verify="true" type="str" auto="true"><![CDATA[16 января 2021, суббота 09:37]]></date><title verify="true" type="str" auto="true"><![CDATA[Настольная версия AMD Cezanne не будет поддерживать PCI Express 4.0]]></title><author verify="true" type="str" auto="true"><![CDATA[Алексей Сычёв]]></author><text verify="true" type="str" auto="true"><![CDATA[  Энтузиасту, который поделился своими впечатлениями на странице китайского форума ChipHell, попал в руки инженерный образец гибридного процессора AMD Ryzen, который утилитой CPU-Z был причислен к семейству Cezanne, официально пока дебютировавшему лишь в мобильном сегменте.
+ 
+ 
+ 
+ 
+ В материнской плате ASUS с разъёмом Socket AM4 данный образец продемонстрировал способность работать на частоте 4.75 ГГц, а также отсутствие поддержки интерфейса PCI Express 4.0.
+ 
+ 
+ 
+ 
+ Уместно напомнить, что AMD стала пионером внедрения PCI Express 4.0 в настольном сегменте, но в случае с гибридными процессорами она пока воздерживается от реализации поддержки соответствующего интерфейса. Процессоры Cezanne, по всей видимости, не станут исключением.
+]]></text></doc>

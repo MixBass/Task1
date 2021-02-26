@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="false" type="str" verify="true"></link><category verify="true" type="str" auto="false"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="false"><![CDATA[]]></date><title verify="true" type="str" auto="false"><![CDATA[Новости IT-рынка]]></title><author verify="true" type="str" auto="false"><![CDATA[]]></author><text verify="true" type="str" auto="false"><![CDATA[   с   12 - го   по   15 - ое   апрель   2018   год   в   московский   офис   компания   asus   собираться   хороший   оверклокер   россия   из   команда   team   russia   для   завоевание   новый   рекорд   в   различный   дисциплина . 
+ 
+ 
+ 
+ компания   asus   совместно   с   партнер  –  hyperx   и   seasonic ,  приглашать   на   оверклокерский   турнир   ведущий   российский   оверклокер :  atheros , _ 12 _,  xtreme   addict ,  smoke   и   slamms   из   команда   teamrussia . 
+ 
+ оверклокер   испытывать   на   предельный   скорость   система   на   отборный   процессор   и   комплектовать   asus   republic   of   gamers ,  а   также   впервые   в   россия   устанавливать   рекорд   по   разгон   самый   мощный   в   мир   видеокарта   nvidia   titan   v . 
+ 
+ 
+ 
+ основной   два   тестовый   стенд   становиться   материнский   плата   asus   rog   rampage   vi   apex ,  построить   на   база   системный   логика   intel   x299 ,  а   также   asus   rog   maximus   x   apex   на   база   чипсет   intel   z370 ,  который   демонстрировать   впечатлять   производительность   при   экстремальный   нагрузка   и   минусовый   температура . 
+ 
+ 
+ 
+ оверклокер   использовать   отборный   скальпировать   процессор   intel   core   i9 - 7980xe ,  разгонять   до   частота   5 , 8   ггц ,  а   также   процессор   intel   core   i7 - 8700k ,  работать   на   частота   7   ггц   с   использование   жидкий   азот .   температура   cpu   на   тестовый   стенд   при   разгон   компонент   доходить   до   отметка   минус   196   градус   по   цельсий . 
+ 
+ для   охлаждение   видеокарта   nvidia   titan   v   быть   использовать   уже   зарекомендовать   себя   система   охлаждение   с   использование   хладагент   и   сухой   лед ,  который   позволять   держать   в   система   стабильный   минусовый   температура . 
+ 
+ дисковый   подсистема   стенд   быть   организовывать   сверхбыстрый   твердотельный   накопитель   от   компания   hyperx .   оверклокер   использовать   проверять   модуль   оперативный   память   от   hyperx .   за   питание   разгонять   стенд   отвечать   высоконадежный   блок   питание   от   компания   seasonic . 
+ 
+ 
+ 
+ по   результат   саммит   оверклокер   завоевывать   10   почетный   награда   в   следующий   дисциплина :
+ 
+ наименование   бенчмарка   результат   центральный   процессор   материнский   плата   графический   процессор   место   в   мир 
+ 3dmark   11  –  performance   44803marks   intel   core   i9   7980xe  ( 5 , 8   ггц )  asus   rog   rampage   vi   apex   nvidia   titan   v   1  ( titan   v   rank )
+ 3dmark   05   91459   marks   intel   core   i7   8700k  ( 7   ггц )  asus   rog   maximus   x   apex   asus   rog   strix   geforce   gtx   1080   ti   2  ( global   1x   gpu   rank )
+ catzilla  -  720p   113039   marks   intel   core   i9   7980xe  ( 5 , 8   ггц )  asus   rog   rampage   vi   apex   nvidia   titan   v   2  ( titan   v   rank )
+ 3dmark   vantage  -  performance   135264   marks   intel   core   i9   7980xe  ( 5 , 8   ггц )  asus   rog   rampage   vi   apex   nvidia   titan   v   3  ( global   1x   gpu   rank )
+ catzilla  -  1440p   30714   marks   intel   core   i9   7980xe  ( 5 , 8   ггц )  asus   rog   rampage   vi   apex   nvidia   titan   v   3  ( titan   v   rank )
+ catzilla  –  4k   15764   marks   intel   core   i9   7980xe  ( 5 , 6   ггц )  asus   rog   rampage   vi   apex   nvidia   titan   v   3  ( titan   v   rank )
+ 3dmark  –  fire   strike   ultra   10132   marks   intel   core   i9   7980xe  ( 5 , 7   ггц )  asus   rog   rampage   vi   apex   nvidia   titan   v   3  ( titan   v   rank )
+ 3dmark  –  fire   strike   36604   marks   intel   core   i9   7980xe  ( 5 , 7   ггц )  asus   rog   rampage   vi   apex   nvidia   titan   v   3  ( titan   v   rank )
+ 3dmark  –  fire   strike   extreme   19642   marks   intel   core   i9   7980xe  ( 5 , 7   ггц )  asus   rog   rampage   vi   apex   nvidia   titan   v   3  ( titan   v   rank )
+ 3dmark  –  time   spy   16578   marks   intel   core   i9   7980xe  ( 5 , 5   ггц )  asus   rog   rampage   vi   apex   nvidia   titan   v   4  ( global   1x   gpu   rank )
+ 
+ 
+ ссылка   на   рекорд :
+ 
+ http :// hwbot . org / submission / 3841307 _ smoke _ 3dmark11 ___ performance _ titan _ v _ 44803 _ marks 
+ http :// hwbot . org / submission / 3841308 _ smoke _ 3dmark05 _ geforce _ gtx _ 1080 _ ti _ 91459 _ marks 
+ http :// hwbot . org / submission / 3841315 _ smoke _ catzilla ___ 720p _ titan _ v _ 85635 _ marks 
+ http :// hwbot . org / submission / 3841306 _ smoke _ 3dmark _ vantage ___ performance _ titan _ v _ 135264 _ marks 
+ http :// hwbot . org / submission / 3841314 _ smoke _ catzilla ___ 1440p _ titan _ v _ 30714 _ marks 
+ http :// hwbot . org / submission / 3841312 _ smoke _ catzilla ___ 4k _ titan _ v _ 15764 _ marks 
+ http :// hwbot . org / submission / 3841906 _ smoke _ 3dmark ___ fire _ strike _ ultra _ titan _ v _ 10132 _ marks 
+ http :// hwbot . org / submission / 3841908 _ smoke _ 3dmark ___ fire _ strike _ titan _ v _ 36604 _ marks 
+ http :// hwbot . org / submission / 3841902 _ smoke _ 3dmark ___ fire _ strike _ extreme _ titan _ v _ 19642 _ marks 
+ http :// hwbot . org / submission / 3841901 _ smoke _ 3dmark ___ time _ spy _ titan _ v _ 16578 _ marks 
+ 
+ такой   результат   позволять   российский   команда   team   russia   выходить   на   второй   место   в   мир   в   рейтинг   hwbot . 
+ 
+ 
+ 
+ о   серия   rog 
+ 
+ republic   of   gamers  (« республика   геймер ») –  это   принадлежать   компания   asus   бренд ,  под   который   на   рынок   выходить   геймерский   продукт   самый   высокий   уровень .   создавать   в   2006   год ,  он   охватывать   множество   продуктовый   категория ,  в   тот   число   материнский   плата ,  видеокарта ,  ноутбук ,  стационарный   компьютер ,  монитор ,  звуковой   оборудование ,  маршрутизатор   и   различный   периферийный   устройство .   с   бренд   rog   компания   asus   активно   участвовать   в   жизнь   мировой   геймерский   сообщество ,  выступать   спонсор   крупный   киберспортивный   турнир .   с   помощь   устройство   серия   rog ,  который   являться   популярный   выбор   среди   геймер   и   энтузиаст   по   весь   мир ,  устанавливать   сотня   рекорд   оверклокинг .   весь   информация   о   rog   можно   находить   на   сайт   http :// rog . asus . com . 
+]]></text></doc>

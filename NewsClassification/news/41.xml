@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/hardnews/show/107985/platy-na-baze-intel-z590-obespechat-podderzhku-20-linij-pci-express-4-0</link><category verify="true" type="str" auto="true"><![CDATA[Новости Hardware]]></category><date verify="true" type="str" auto="true"><![CDATA[19 января 2021, вторник 07:59]]></date><title verify="true" type="str" auto="true"><![CDATA[Платы на базе Intel Z590 обеспечат поддержку 20 линий PCI Express 4.0]]></title><author verify="true" type="str" auto="true"><![CDATA[Алексей Сычёв]]></author><text verify="true" type="str" auto="true"><![CDATA[  Дебютирующие в этом квартале процессоры Intel Rocket Lake-S принесут долгожданную поддержку PCI Express 4.0 настольным платформам этой марки, но её практическая реализация не будет лишена нюансов. Известно, что многие материнские платы на базе Intel Z490 смогут обеспечить поддержку PCI Express 4.0 для ближнего к процессорному разъёму слота расширения.
+ Как поясняет один популярный японский блогер, в случае с материнскими платами на основе набора логики Intel Z590 говорить о компромиссах не придётся – они позволят центральным процессорам Rocket Lake реализовать поддержку всех двадцати линий PCI Express 4.0.
+ 
+ 
+ 
+ 
+ Они могут быть сконфигурированы по формуле «x16 + x4», «x8 + x8 + x4» или «x8 + x4 + x4 + x4». Кстати, для материнских плат на основе чипсета Intel H570 подобной гибкости конфигурирования не предусмотрено, но по количеству линий PCI Express 4.0 они не будут уступать флагману семейства, пусть лишь по формуле «x16 + x4».
+]]></text></doc>

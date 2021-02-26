@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="false" type="str" verify="true"></link><category verify="true" type="str" auto="false"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="false"><![CDATA[]]></date><title verify="true" type="str" auto="false"><![CDATA[Новости IT-рынка]]></title><author verify="true" type="str" auto="false"><![CDATA[]]></author><text verify="true" type="str" auto="false"><![CDATA[   доступный   новый   nvidia   studio   драйвер ,  обеспечивать   прирост   производительность   в   следующий   приложение   для   создание   контент :
+ maxon   cinema   4d   r21 ,
+ epic   games   unreal   engine   4.23 ,
+ adobe   lightroom   classic   8.4 ,
+ adobe   substance   designer   2019.2 ,
+ blackmagic   design   davinci   resolve   studio   16.0 . 
+ новый   обновление   unreal   engine   4.23   уже   доступно .   трассировка   луч   в   ue   4.23   повышать   стабильность   работа   и   производительность   и   добавлять   новый   материал   и   тип   геометрия ,  включая   ландшафтный   геометрия ,  образец   статический   сетка  ( instanced   static   meshes ),  процедурный   сетка   и   система   частица   niagara   на   основа   спрайт .   улучшать   качество   шумоподавление   и   глобальный   освещение   на   база   трассировка   луч .   улучшать   поддержка   многократный   отражение   трассировка   луч   путем   использование   кубический   карта   на   последний   уровень   отражение .   подробно   в   блог   unreal   engine   и   блог   nvidia   для   разработчик . 
+ 
+ 
+ 
+ новый   версия   cinema   4d   r21   располагать   новый   возможность ,  включая   новый   система  " caps   and   bevel "  для   экструзия ,  изменение   форма   и   анимирование   3d   текст   и   новый   объект   динамика   силовой   поле ,  который   позволять   создавать   оптимизировать   анимированный   график .   приложение   также   поддерживать   новый   система   материал ,  упрощать   их   выбор   в   любой   поддерживать   3d - рендерер ,  например ,  redshift .   redshift  –  это   gpu - ускорять   рендерер ,  который   использовать   nvidia   cuda   и   optix   для   шумоподавление   и   в   будущее   релиз   добавлять   поддержка   optix   для   ускоренный   трассировка   луч   на   rtx .   подробно   читать   на   сайт   maxon . 
+ 
+ новый   studio   драйвер   доступный   для   загрузка   в   geforce   experience . 
+ 
+ подробно   здесь . 
+]]></text></doc>

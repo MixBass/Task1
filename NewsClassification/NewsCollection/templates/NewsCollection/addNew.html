@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Добавить новость</title>
+</head>
+<body>
+    <div>
+        <div><h1>Сервис по классификации новостей</h1></div>
+        <div><a href="/">Классификатор новостей</a></div>
+        <div><a href="/news-filter">Коллекция новостей</a></div>
+        <div><a href="/new-add">Добавить новость</a></div>
+    </div>
+
+    <div id="content">
+        <div>
+            <h2>Добавить новость</h2>
+        </div>
+
+        <div>
+            <div>
+                <p>Ссылка на новость:</p>
+                <input type="text" id="linkInput"/>
+                <p id="linkError"></p>
+            </div>
+            <div>
+                <p>Категория:</p>
+                <select id="categoryInput">
+                    <option>Новости Hardware</option>
+                    <option>Новости Software</option>
+                    <option>Новости II-рынка</option>
+                    <option>Новости Сайта</option>
+                </select>
+            </div>
+            <div>
+                <p>Дата публикации:</p>
+                <input type="datetime" placeholder="yyyy-mm-dd HH:MM" id="dateInput"/>
+                <p id="dateError"></p>
+            </div>
+            <div>
+                <p>Заголовок:</p>
+                <input type="text" id="titleInput"/>
+                <p id="titleError"></p>
+            </div>
+            <div>
+                <p>Автор:</p>
+                <input type="text" id="authorInput"/>
+                <p id="authorError"></p>
+            </div>
+            <div>
+                <p>Текст новости:</p>
+                <textarea cols="120" rows="15" id="textInput"></textarea>
+                <p id="textError"></p>
+            </div>
+        </div>
+        <div>
+            <button onclick="addNew()">Добавить новость</button>
+        </div>
+        <div>
+            <img hidden id="preloader" src="/static/images/preloader.gif" />
+        </div>
+        <div>
+            <p id="addNewResult"></p>
+            <p id="addNewError"></p>
+        </div>
+    </div>
+
+    <script src="/static/checks.js"></script>
+    <script src="/static/functionForAddNew.js"></script>
+</body>
+</html>

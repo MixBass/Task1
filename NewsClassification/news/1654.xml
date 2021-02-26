@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/itnews/show/96681/trassirovka-luchej-teper-dostupna-na-geforce-gtx-a-rtx-demonstracii-vylozheny-v-otkrytyj-dostup</link><category verify="true" type="str" auto="true"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="true"><![CDATA[11 апреля 2019, четверг 19:21]]></date><title verify="true" type="str" auto="true"><![CDATA[Трассировка лучей теперь доступна на GeForce GTX, а RTX-демонстрации выложены в открытый доступ]]></title><author verify="true" type="str" auto="true"><![CDATA[admin]]></author><text verify="true" type="str" auto="true"><![CDATA[  Доступен новый Game Ready драйвер, который позволит миллионам обладателей графических процессоров GeForce GTX оценить возможности трассировки лучей.
+
+Благодаря специальным RT-ядрам, графические процессоры линейки GeForce RTX в 2-3 раза повышают производительность в играх с эффектами трассировки лучей, позволяют реализовывать более сложные эффекты и в большем количестве, а также играть на более высоких разрешениях.
+
+С выходом нового драйвера графические процессоры GeForce GTX 1060 6GB и выше теперь также смогут поддерживать трассировку на традиционных шейдерных ядрах, хотя и на более низких разрешениях и с более низкими настройками, позволяя геймерам получить общее представление о том, как трассировка влияет на визуальный облик игры.
+
+С новым драйвером DXR будут поддерживать следующие GPU GeForce GTX:
+GeForce GTX 1660 Ti
+GeForce GTX 1660
+NVIDIA TITAN Xp (2017)
+NVIDIA TITAN X (2016)
+GeForce GTX 1080 Ti
+GeForce GTX 1080
+GeForce GTX 1070 Ti
+GeForce GTX 1070
+GeForce GTX 1060 6GB
+а также ноутбуки на базе перечисленных GPU
+
+
+
+
+Новое видео, объясняющее работу трассировки лучей:
+
+
+
+Начиная с сегодняшнего дня три демонстрации технологии NVIDIA RTX доступны бесплатно для всех геймеров GeForce:
+RTX демо Atomic Heart – это демонстрации игры Atomic Heart от Mundfish с красивой детализацией, в которой отражения и тени отрисованы методом трассировки лучей, а также применена технология NVIDIA DLSS;
+демо Justice - это демонстрация игры Justice родом из Китая с трассированными отражениями, тенями и технологией NVIDIA DLSS. Первый случай, когда трассировка лучей в реальном времени используется для моделирования каустиков;
+демо Reflections – демонстрация Reflections была создана Epic Games вместе с ILMxLAB и NVIDIA. Reflections предлагает заглянуть в будущее игр с фотореалистичной графикой: с трассированными отражениями, тенями от рассеянных источников света, фоновым затенением и технологией NVIDIA DLSS.
+
+
+Все три демонстрации можно загрузить со страницы https://www.nvidia.com/en-us/geforce/20-series/rtx/.
+
+Полезные ссылки:
+Подробнее и пресс-материалы: www.nvidia-press.com
+
+О демонстрациях трассировки лучей:
+https://www.nvidia.com/en-us/geforce/news/atomic-heart-justice-reflections-nvidia-rtx-tech-demo-downloads
+
+Ray Tracing Deep Dive, DXR на GPU RTX и GTX и новый Game Ready драйвер:
+https://www.nvidia.com/en-us/geforce/news/geforce-gtx-dxr-ray-tracing-available-now
+
+Что такое трассировка лучей:
+https://youtu.be/476N4KX8shA
+
+Загрузить Game Ready драйвер:
+https://www.geforce.com/drivers
+
+Загрузить демо Atomic Heart:
+https://www.nvidia.com/en-us/geforce/20-series/rtx/
+
+Загрузить демо Justice:
+https://www.nvidia.com/en-us/geforce/20-series/rtx/
+
+Загрузить демо Reflections:
+https://www.nvidia.com/en-us/geforce/20-series/rtx/
+]]></text></doc>

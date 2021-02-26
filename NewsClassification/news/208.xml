@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/hardnews/show/107609/intel-core-i7-11700k-rocket-lake-oboshel-amd-ryzen-9-5950x-v-odnopotochnom-teste-geekbench-5</link><category verify="true" type="str" auto="true"><![CDATA[Новости Hardware]]></category><date verify="true" type="str" auto="true"><![CDATA[28 декабря 2020, понедельник 11:07]]></date><title verify="true" type="str" auto="true"><![CDATA[Intel Core i7-11700K (Rocket Lake) обошёл AMD Ryzen 9 5950X в однопоточном тесте Geekbench 5]]></title><author verify="true" type="str" auto="true"><![CDATA[Алексей Сычёв]]></author><text verify="true" type="str" auto="true"><![CDATA[  В способности Intel представить в январе процессоры семейства Rocket Lake-S уже мало кто сомневается. Во-первых, представить – не значит отправить в продажу в достаточных количествах. Во-вторых, слишком много в последние дни стало появляться результатов тестирования инженерных образцов процессоров этой серии. В базе данных Geekbench 5 восьмиядерный процессор Intel Core i7-11700K тоже прописался с результатом 1807 баллов для однопоточной части и 10 673 балла для многопоточной.
+ 
+ 
+ 
+ 
+ Данный экземпляр процессора способен работать на частотах от 3.6 до 5.0 ГГц, на своих восьми ядрах он обходит шестнадцатиядерный AMD Ryzen 9 5950X в однопоточной части теста Geekbench 5 примерно на 8%, а вот в многопоточной части изделие AMD оставляет лидерство за собой.
+ Не менее важно, что тестирование проходило в материнской плате AORUS Z490 Master, которая обеспечивает совместимость с процессорами семейства Rocket Lake-S – достаточно лишь обновить BIOS.
+]]></text></doc>

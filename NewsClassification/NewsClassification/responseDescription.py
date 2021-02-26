@@ -1,0 +1,5 @@
+responseFor400 = "bad request"
+responseFor404 = "page is not found"
+responseFor405 = "this request method is not allowed"
+responseFor415 = "this media type is not allowed"
+responseFor503 = "service unavailable"

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="true" type="str" verify="true">https://overclockers.ru/itnews/show/94432/igry-i-prilozheniya-dlya-geforce-rtx-trassirovka-luchej-i-drugie-tehnologii-rtx-anonsy-noyabrya</link><category verify="true" type="str" auto="true"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="true"><![CDATA[15 ноября 2018, четверг 00:02]]></date><title verify="true" type="str" auto="true"><![CDATA[Игры и приложения для GeForce RTX – трассировка лучей и другие технологии RTX – анонсы ноября]]></title><author verify="true" type="str" auto="true"><![CDATA[admin]]></author><text verify="true" type="str" auto="true"><![CDATA[  Изобретая графику заново с выпуском графических процессоров GeForce RTX, мы знали, что впереди много серьезной работы. И сегодня у нас для вас хорошие новости!
+
+Стартовала Battlefield V - первая игра с поддержкой трассировки лучей в реальном времени с использованием технологии DXR.
+
+Также в открытом доступе появится бенчмарк Final Fantasy XV, в котором пользователи смогут протестировать возможности GeForce RTX. А к концу ноября в игре Wolfenstein II: The New Colossus появится апдейт, который добавит поддержку еще одной функции процессоров GeForce RTX - NVIDIA Adaptive Shading (NAS).
+
+Изобретая графику заново
+
+Для того, чтобы сегодняшний анонс состоялся, нам понадобилась новая графическая архитектура (Turing), новый вид рендеринга (гибридный), новые ядра GPU (RT-ядра и тензорные ядра), новые GPU (GeForce RTX) и новые инструменты для разработчиков.
+
+Нам также понадобилась помощь игровой индустрии в целом. Нужен был новый стандарт API (Microsoft DirectX Raytracing), поддержка технологии в игровых движках, таких, как Unreal Engine, Remedy и Frostbite, и внедрение новых технологий передовыми разработчиками игр: о поддержке технологии NVIDIA RTX публично заявлено в 11 играх, и это только начало.
+
+Battlefield V – это первая игра с отражениями на базе трассировки лучей
+
+
+
+Вышедший сегодня патч для Battlefield V принес в игру поддержку трассировки лучей в реальном времени с использованием технологии DXR.
+
+"Мы впервые реализовали трассировку лучей в реальном времени на картах Arctic Fjord и Rotterdam, и это было потрясающе!" •
+Кристиан Холмкуист, технический директор DICE
+
+
+Трассировка лучей меняет вид сцен и ощущения от геймплея.
+
+"Трассировка лучей создает физически корректные, иммерсивные и визуально захватывающие миры, и мы очень рады, что Battlefield V стала первой игрой, реализовавшей эту технологию".
+Кристиан Холмкуист, технический директор DICE
+
+
+Эта технология также меняет сам процесс разработки игр.
+
+"Это то, чего мы так долго ждали. У нас отлично получается нарисовать отдельный объект и довести его до совершенства, однако взаимодействие объектов в сцене обеспечивает именно трассировка лучей, которая формирует отражения, тени и глобальное освещение".
+Кристиан Холмкуист, технический директор DICE
+
+
+Ноябрьский календарь анонсов игр и приложений для GeForce RTX
+14 ноября: дебют трассировки лучей в Battlefield V
+15 ноября: публичный анонс бенчмарка Final Fantasy XV с поддержкой DLSS
+19 ноября: Bethesda обновит Wolfenstein II: The New Colossus, добавив поддержку NVIDIA adaptive shading (NAS).
+Мы благодарим геймеров за терпение и желаем отличных впечатлений в приложениях и играх для GeForce RTX!
+
+Ссылки по теме:
+
+Блог EA по Battlefield V и трассировке лучей DXR:
+https://www.ea.com/news/battlefield-5-real-time-ray-tracing
+
+Статья по Battlefield V с трассировкой лучей DXR:
+https://www.nvidia.com/en-us/geforce/news/battlefield-v-rtx-ray-tracing-out-now
+
+Информация по бенчмарку Final Fantasy XV:
+https://www.nvidia.com/en-us/geforce/news/final-fantasy-xv-windows-edition-geforce-rtx-dlss-benchmark
+
+Статья по передовым технологиям GeForce RTX:
+https://www.nvidia.com/en-us/geforce/news/graphics-reinvented-new-technologies-in-rtx-graphics-cards/
+]]></text></doc>

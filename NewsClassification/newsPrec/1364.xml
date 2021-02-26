@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<doc><link auto="false" type="str" verify="true"></link><category verify="true" type="str" auto="false"><![CDATA[Новости IT-рынка]]></category><date verify="true" type="str" auto="false"><![CDATA[]]></date><title verify="true" type="str" auto="false"><![CDATA[Новости IT-рынка]]></title><author verify="true" type="str" auto="false"><![CDATA[]]></author><text verify="true" type="str" auto="false"><![CDATA[   это   исторический   день   для   игра   с   поддержка   vulkan ,  поскольку   nvidia   выпускать   новый   game   ready   драйвер ,  который   официально   поддерживать   vulkan   ray   tracing .   мы   также   обновлять   демо   quake   ii   rtx   для   поддержка   новый   отраслевой   стандарт . 
+ 
+ внедрять   трассировка   луч   в   vulkan   уже   несколько   год   пытаться   многий   компания ,  и   на   весь   этап   этот   процесс   nvidia   занимать   лидировать   позиция .   компания   быть   избирать   председатель   подгруппа   по   трассировка   луч   vulkan   в   khronos ,  передавать   в   khronos   структура   наш   расширение ,  чтобы   помогать   рабочий   группа   vulkan   добиваться   быстрый   прогресс ,  и   предоставлять   драйвер   для   предварительный   версия   расширение   трассировка   луч   vulkan ,  чтобы   получать   обратный   связь   от   разработчик .   теперь   мы   первый   внедрять   этот   расширение   в   игра . 
+ 
+ quake   ii   rtx :  трассировка   луч   для   все ! 
+ 
+ vulkan   ray   tracing  –  теперь   не   только   для   geforce   rtx .   погружаться   в   quake   ii   rtx   и   последний   обновление   игра .   quake   ii   rtx   становиться   первый   игра   с   поддержка   недавно   представлять   независимый   от   платформа   расширение   vulkan   ray   tracing ,  и   она   можно   запускать   на   любой   совместимый   gpu .   quake   ii   rtx   много   не   зависеть   от   специфичный   для   вендор   расширение .   подробно   здесь . 
+ 
+ quake   ii   rtx   становиться   первый   в   мир   игра   с   полный   поддержка   технология   path   tracing ,  который   объединять   весь   световой   эффект ,  такой   как   тень ,  отражение ,  преломление   и   другой ,  в   единый   алгоритм   трассировка   луч .   в   результат   игра ,  выпускать   еще   в   1997   год ,  приобретать   совершенно   новый   потрясающий   вид . 
+ 
+ загружать   новый   game   ready   драйвер ,  испытывать   vulkan   ray   tracing ! 
+ 
+ в   quake   ii   rtx   также   быть   встроенный   бенчмарк ,  чтобы   вы   мочь   проверять ,  как   разный   gpu   справляться   с   трассировка   луч .   это   первый   в   мир   бенчмарк   для   vulkan   ray   tracing . 
+ 
+ загружать   наш   новый   game   ready   драйвер ,  а   игра   quake   ii   rtx   со   steam .   первый   три   уровень   бесплатный .   при   покупка   игра   поддержка   трассировка   луч   появляться   во   весь   уровень . 
+ 
+ полезный   ссылка :
+ 
+ по   game   ready   драйвер :
+ https :// www . nvidia . com / en - us / geforce / news / quake - 2 - rtx - vulkan - ray - tracing - game - ready - driver 
+ 
+ подробно   о   драйвер   для   vulkan :
+ https :// news . developer . nvidia . com / vulkan - ray - tracing - production - drivers - and - quake - ii - rtx - cross - vendor - extensions /
+ 
+ загружать   драйвер   nvidia :
+ https :// www . nvidia . ru / download / index . aspx ? lang = ru 
+ 
+ quake   ii   rtx   в   steam :  https :// store . steampowered . com / agecheck / app / 1089130 /
+ 
+ по   sdk ,  инструмент   и   драйвер   для   vulkan   с   поддержка   трассировка   луч :
+ https :// www . khronos . org / news / press / vulkan - sdk - tools - and - drivers - are - ray - tracing - ready 
+]]></text></doc>
