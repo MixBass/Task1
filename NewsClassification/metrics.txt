@@ -1,0 +1,10 @@
+                  precision    recall  f1-score   support
+
+Новости Hardware       0.99      0.99      0.99       117
+Новости Software       0.98      0.97      0.98       120
+Новости IT-рынка       0.98      0.99      0.98       120
+   Новости Сайта       1.00      0.98      0.99        59
+
+        accuracy                           0.99       416
+       macro avg       0.99      0.99      0.99       416
+    weighted avg       0.99      0.99      0.99       416
